@@ -1,0 +1,27 @@
+{
+  "name": "js-search",
+  "version": "1.0.0",
+  "description": "Set of libraries to implement search and result filtering",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codio/js-search.git"
+  },
+  "keywords": [
+    "javascrips",
+    "immutable",
+    "search"
+  ],
+  "author": "MaximKraev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codio/js-search/issues"
+  },
+  "homepage": "https://github.com/codio/js-search#readme"
+}
