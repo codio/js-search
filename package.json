@@ -16,12 +16,15 @@
   "keywords": [
     "javascrips",
     "immutable",
-    "search"
+    "filter"
   ],
   "author": "MaximKraev",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/codio/js-search/issues"
   },
-  "homepage": "https://github.com/codio/js-search#readme"
+  "homepage": "https://github.com/codio/js-search#readme",
+  "dependencies": {
+    "immutable": "3.7.3"
+  }
 }
