@@ -1,8 +1,13 @@
-'use strict';
+import Engine from './lib/engine.js';
+import Filter from './lib/filter.js';
+import Provider from './lib/provider.js';
+import IProvider from './lib/provider-immutable.js';
 
-module.exports = {
-    Engine: require('./lib/engine'),
-    Filter: require('./lib/filter'),
-    Provider: require('./lib/provider'),
-    IProvider: require('./lib/provider-immutable')
+export { Engine, Filter, Provider, IProvider };
+
+export default {
+    Engine,
+    Filter,
+    Provider,
+    IProvider
 };
